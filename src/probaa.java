@@ -16,7 +16,7 @@ class Lamp {
     void turnOff() {
         isOn = false;
         System.out.println("Light on? " + isOn);
-    }
+    } //aaa
 }
 
 class probaa {
