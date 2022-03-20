@@ -15,7 +15,7 @@ class Lamp {
     // method to turnoff the light
     void turnOff() {
         isOn = false;
-        System.out.println("Light on? " + isOn);
+        System.out.println("Light on??? " + isOn);
     } //aaa
 }
 
